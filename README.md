@@ -73,8 +73,8 @@ You need to install the custom script and disable the default Ableton Push scrip
 ### Step 3: MIDI Controller Configuration
 You can use external MIDI controllers like the Novation Launchkey MK4 or similar hardware.
 
-1. Set up your MIDI controller's CC mapping. *(See screenshot below for reference)*
-`[Insert Image of MIDI CC Map Setup]`
+1. Set up your MIDI controller's CC mapping. *(See Image below for reference)*
+![image](images/AbletonPushUserMode.png)
 
 2. Configure your knobs to use the **Relative** method. Ensure the values are set as follows:
    * **Center Value:** `0`
@@ -98,6 +98,7 @@ Now, link your Virtual MIDI and physical MIDI controller inside Ableton Live.
 
 ![image](images/Screenshot_63.png) ![image](images/Screenshot_63%20-%20Copy.png)
 
+.
 
 ### Step 5: Running the Simulation
 Once everything is routed, you are ready to launch!
@@ -107,4 +108,5 @@ Once everything is routed, you are ready to launch!
 3. In the web application settings, select `loopMIDI Port 1` as the data source.
 4. The Push 1 LCD simulation will now run on your screen, and your physical MIDI controller will interact directly with the interface and Ableton Live!
 
-![image](images/Screenshot_68.png) ![image](images/Screenshot_67.png) ![image](images/Screenshot_69.png)
+
+![image](images/Screenshot_68.png)
