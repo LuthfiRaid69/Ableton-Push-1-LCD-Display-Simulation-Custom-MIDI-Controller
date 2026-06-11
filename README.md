@@ -34,7 +34,7 @@ You will need virtual MIDI ports to route the data between your browser and Able
 3. Name them something easily identifiable (e.g., `loopMIDI Port 1` and `loopMIDI Port 2`).
 *(See screenshot below for reference)*
 
-`[Insert Image of LoopMIDI Setup]`
+![image](images/Screenshot_60.png) ![image](images/Screenshot_61.png) ![image](images/Screenshot_62.png)
 
 ### Step 2: Install the Custom Ableton Remote Script
 You need to install the custom script and disable the default Ableton Push script to prevent conflicts.
@@ -75,7 +75,8 @@ Now, link your Virtual MIDI and physical MIDI controller inside Ableton Live.
    * **Output:** `[Your Hardware MIDI Controller Name]`
 4. Finally, configure your MIDI Ports (Track, Sync, Remote) as shown in the reference image below:
 
-`[Insert Image of Ableton MIDI Port Configuration]`
+![image](images/Screenshot_63.png) ![image](images/Screenshot_63%20-%20Copy.png)
+
 
 ### Step 5: Running the Simulation
 Once everything is routed, you are ready to launch!
