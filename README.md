@@ -1,6 +1,6 @@
 README.md
 # Ableton Push 1 LCD Display Simulation Custom MIDI Controller
-Ableton Push 1 LCD Display Simulation &amp; Custom Push MIDI Controller
+Ableton Push 1 LCD Display Simulation &amp; Custom Push MIDI Controller by Luthfi Ibnu Rid
 
 [Website Link Ableton Push 1 LCD Display Simulation](https://sixnine0.github.io/)
 
