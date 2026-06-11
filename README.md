@@ -9,8 +9,10 @@ Ableton Push 1 LCD Display Simulation &amp; Custom Push MIDI Controller
 ### Donate
 ### | ☕ [[Ko-fi]](https://ko-fi.com/luthfi_raid)  |  [[Trakteer]](https://trakteer.id/luthfi_raid) |
 
-
 ---
+
+.
+
 
 ## Ableton Push 1 LCD Display Simulation & Custom MIDI Controller
 Welcome! This project allows you to run a simulation of the Ableton Push 1 LCD screen directly in your web browser, controlled by a custom/external MIDI controller. This guide will walk you through the necessary requirements and step-by-step setup to get everything running smoothly.
