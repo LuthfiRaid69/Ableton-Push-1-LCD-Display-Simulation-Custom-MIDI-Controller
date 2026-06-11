@@ -4,6 +4,9 @@ Ableton Push 1 LCD Display Simulation &amp; Custom Push MIDI Controller
 #
 Welcome! This project allows you to run a simulation of the Ableton Push 1 LCD screen directly in your web browser, controlled by a custom/external MIDI controller. This guide will walk you through the necessary requirements and step-by-step setup to get everything running smoothly.
 
+![image](images/Screenshot_67.png) ![image](images/Screenshot_69.png)
+
+
 ---
 
 ## 🛠️ Prerequisites & Requirements
@@ -39,7 +42,7 @@ You will need virtual MIDI ports to route the data between your browser and Able
 ### Step 2: Install the Custom Ableton Remote Script
 You need to install the custom script and disable the default Ableton Push script to prevent conflicts.
 
-1. Extract the downloaded **Push Remote Scripts (Custom)** `.zip` file.
+1. Extract the downloaded **Push Remote Scripts (Custom)** `Midi_Remote_Scripts.zip` file.
 2. Choose the correct script folder for your version of Ableton (Ableton 9 or Ableton 10) and copy it.
 3. Paste the `Remote Scripts` folder into your Ableton User Library:
    * **Windows:** `C:\Users\[Your Username]\Documents\Ableton\User Library\`
@@ -48,6 +51,11 @@ You need to install the custom script and disable the default Ableton Push scrip
    * **Windows location:** `C:\ProgramData\Ableton\Live [Version]\Resources\MIDI Remote Scripts\` 
      *(Note: `ProgramData` is a hidden folder by default).*
    * **Mac location:** Right-click the Ableton Live application icon in your Applications folder → Select **Show Package Contents** → Navigate to `Contents/App-Resources/MIDI Remote Scripts/`
+
+
+![image](images/Screenshot_65.png)
+
+![image](images/Screenshot_64.png)
 
 ### Step 3: MIDI Controller Configuration
 You can use external MIDI controllers like the Novation Launchkey MK4 or similar hardware.
@@ -85,3 +93,5 @@ Once everything is routed, you are ready to launch!
 2. Your browser will ask for permission to access your MIDI devices. Click **Allow** / **Agree**.
 3. In the web application settings, select `loopMIDI Port 1` as the data source.
 4. The Push 1 LCD simulation will now run on your screen, and your physical MIDI controller will interact directly with the interface and Ableton Live!
+
+![image](images/Screenshot_68.png) ![image](images/Screenshot_67.png) ![image](images/Screenshot_69.png)
