@@ -20,7 +20,7 @@ Before getting started, make sure you have the following:
    * Download LoopMIDI: [loopMIDISetup_1_0_16_27.zip](https://www.tobias-erichsen.de/wp-content/uploads/2020/01/loopMIDISetup_1_0_16_27.zip)
 4. **Ableton Push Remote Script (Custom)**
    * for Ableton Live 9 & Ableton Live 10
-   * Download here: [Ableton Remote Script](https://github.com/LuthfiRaid69/Ableton-Push-1-LCD-Display-Simulation-Custom-MIDI-Controller/releases/download/Midi_Remote_Scripts/Midi.Remote.Scripts.zip)
+   * Download here: [Ableton Remote Script](https://github.com/LuthfiRaid69/Ableton-Push-1-LCD-Display-Simulation-Custom-MIDI-Controller/releases/download/Midi_Remote_Scripts/Midi_Remote_Scripts.zip)
 
 ---
 
