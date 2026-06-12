@@ -8,7 +8,7 @@ Ableton Push 1 LCD Display Simulation &amp; Custom Push MIDI Controller by Luthf
 
 ### Donate
 If this tool has saved you hours of work, simplified your life, or helped you generate income, consider giving back a fraction of that value. Your contribution directly dictates my ability to maintain the website and build the next major features (if needed).
-### | ☕ [[Ko-fi]](https://ko-fi.com/luthfi_raid)  |  [[Trakteer]](https://trakteer.id/luthfi_raid) |
+### | ☕ [[ Donate ]](https://sixnine0.github.io/donation-hub.html) |
 
 ---
 
