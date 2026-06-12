@@ -2,7 +2,7 @@ README.md
 # Ableton Push 1 LCD Display Simulation Custom MIDI Controller
 Ableton Push 1 LCD Display Simulation &amp; Custom Push MIDI Controller by Luthfi Ibnu Raid
 
-[Website Link Ableton Push 1 LCD Display Simulation](https://sixnine0.github.io/)
+[Website Link Ableton Push 1 LCD Display Simulation](https://sixnine0.github.io)
 
 
 
@@ -28,7 +28,7 @@ Welcome! This project allows you to run a simulation of the Ableton Push 1 LCD s
 Before getting started, make sure you have the following:
 
 1. **Ableton Push 1 LCD Simulation**
-   * Web version (Free): `[Insert Free Link Here]`
+   * Web version (Free): [Insert Free Link Here](https://sixnine0.github.io)
 2. **MIDI Controller with Rotary Knobs (Optional)**
    * Must support **Relative** CC value settings.
 3. **2-Channel Virtual MIDI Software**
@@ -104,7 +104,7 @@ Now, link your Virtual MIDI and physical MIDI controller inside Ableton Live.
 ### Step 5: Running the Simulation
 Once everything is routed, you are ready to launch!
 
-1. Open the [**Ableton Push 1 LCD Simulation**](https://sixnine0.github.io/) in your preferred web browser (Google Chrome, MS Edge, Firefox, etc.).
+1. Open the [**Ableton Push 1 LCD Simulation**](https://sixnine0.github.io) in your preferred web browser (Google Chrome, MS Edge, Firefox, etc.).
 2. Your browser will ask for permission to access your MIDI devices. Click **Allow** / **Agree**.
 3. In the web application settings, select `loopMIDI Port 1` as the data source.
 4. The Push 1 LCD simulation will now run on your screen, and your physical MIDI controller will interact directly with the interface and Ableton Live!
