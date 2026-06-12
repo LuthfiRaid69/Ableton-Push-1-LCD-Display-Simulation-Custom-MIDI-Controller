@@ -2,7 +2,7 @@ README.md
 # Ableton Push 1 LCD Display Simulation Custom MIDI Controller
 Ableton Push 1 LCD Display Simulation &amp; Custom Push MIDI Controller by Luthfi Ibnu Raid
 
-[Website Link Ableton Push 1 LCD Display Simulation](https://sixnine0.github.io)
+[[ Website Link Ableton Push 1 LCD Display Simulation ]](https://sixnine0.github.io)
 
 
 
@@ -28,16 +28,16 @@ Welcome! This project allows you to run a simulation of the Ableton Push 1 LCD s
 Before getting started, make sure you have the following:
 
 1. **Ableton Push 1 LCD Simulation**
-   * Web version (Free): [Insert Free Link Here](https://sixnine0.github.io)
+   * Web version (Free): [[ Link Here ]](https://sixnine0.github.io)
 2. **MIDI Controller with Rotary Knobs (Optional)**
    * Must support **Relative** CC value settings.
 3. **2-Channel Virtual MIDI Software**
    * You can use any software & midi driver.
    * but we are currently using **LoopMIDI by Tobias Erichsen**.
-   * Download LoopMIDI: [loopMIDISetup_1_0_16_27.zip](https://www.tobias-erichsen.de/wp-content/uploads/2020/01/loopMIDISetup_1_0_16_27.zip)
+   * Download LoopMIDI: [[ loopMIDISetup_1_0_16_27.zip ]](https://www.tobias-erichsen.de/wp-content/uploads/2020/01/loopMIDISetup_1_0_16_27.zip)
 4. **Ableton Push Remote Script (Custom)**
    * for Ableton Live 9 & Ableton Live 10
-   * Download here: [Ableton Remote Script](https://github.com/LuthfiRaid69/Ableton-Push-1-LCD-Display-Simulation-Custom-MIDI-Controller/releases/download/Midi_Remote_Scripts/Midi_Remote_Scripts.zip)
+   * Download here: [[ Ableton Remote Script ]](https://github.com/LuthfiRaid69/Ableton-Push-1-LCD-Display-Simulation-Custom-MIDI-Controller/releases/download/Midi_Remote_Scripts/Midi_Remote_Scripts.zip)
 
 ---
 
